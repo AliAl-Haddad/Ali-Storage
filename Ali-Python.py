@@ -1,3 +1,3 @@
-#_Disply the Output_#
+_Disply the Output_
 
 Print("New Python File")
